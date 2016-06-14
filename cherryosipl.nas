@@ -2,7 +2,7 @@
 ;TAB=4
 
 	DB 0xeb,0x4e,0x90
-	DB "CRYOSIPL"
+	DB "CHROSIPL"
 	DW 512
 	DB 1
 	DW 1
